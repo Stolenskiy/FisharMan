@@ -65,4 +65,5 @@ public class FishingRod {
     public int hashCode () {
         return Objects.hash(getName(), getMoney(), getStrength(), isWorking());
     }
+
 }
